@@ -13,4 +13,4 @@ def pomodoro_timer(minute):
 
 if __name__ == "__main__":
     minute = int(input("请输入专注时长（分钟）: "))
-    pomodoro_timer(minute);
+    pomodoro_timer(minute)
